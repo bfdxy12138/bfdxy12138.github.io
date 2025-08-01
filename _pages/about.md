@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Yancheng Huang
-======
 I'm a Ph.D. student in the [OPTML Group](https://www.optml-group.com/team/)  at Michigan State University, guided by [Prof. Sijia Liu](https://lsjxjtu.github.io/).
 Before that, I obtained my M.S. in Computer Science from Tongji University, where I was advised by [Prof. Kai Yang](https://kaiyangcn.github.io/), and my B.S. from Hohai University. 
 
